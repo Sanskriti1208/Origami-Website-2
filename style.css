@@ -1,0 +1,70 @@
+.grid {
+    background: darkred;
+    background-color: #EEC5A9;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 800px;
+    padding: 50px;
+    background-color:#c56f52;
+  }
